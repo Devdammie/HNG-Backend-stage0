@@ -12,8 +12,8 @@ app.get('/me', async (req, res) => {
         const userDetails = {
             status: 'success',
             user: {
-                name: "Your Name",
-                email: "yourname@example.com",
+                name: "Abdulazeez Jimoh",
+                email: "damilolajimoh2020@gmail.com",
                 stack: ["Node.js/Express"]
             },
             timestamp: new Date().toISOString(),
